@@ -1,0 +1,68 @@
+body {
+  background-image: url("https://wallpapercave.com/wp/wp12401495.jpg");
+  background-size:cover;
+background-attachment: fixed;
+}
+
+#text {
+  background-image: url("https://img.myloview.com/stickers/blue-background-with-white-circle-rings-in-faded-distressed-vintage-grunge-texture-design-old-geometric-pattern-paper-400-212302375.jpg");
+  border: 1px white dotted;
+  color: white;
+  padding: 10px 20px;
+  font-size: 17px;
+}
+
+#game {
+background-image: url("https://t3.ftcdn.net/jpg/03/57/88/88/360_F_357888819_XvattGqyaKLQtZ9JfW1QVTRVTaLkItug.jpg");
+  max-width: 700px;
+  max-height: 400px;
+  background-color: lightgray;
+  color: white;
+font-size: 16px;
+  margin: 0px auto;
+  padding: 10px 20px;
+ text-align: center;
+margin: 0 auto;
+  align-items: center;  
+justify-content: center;
+}
+#controls button:hover {
+  background-color: #3367d6;
+}
+#controls {
+  border:1px white dotted;
+  padding: 10px  20px;
+ text-align: center;
+  margin: 0px auto;
+  align-items: center;  
+justify-content: center;
+}
+#intro{
+  font-size: 36px;
+  padding: 5px 150px ;
+  max-height: 50px;
+  margin: 0 auto;
+  align-items: center;  
+justify-content: center;
+}
+#stats {
+  font-size: 20px;
+  border: 1px white dotted;
+  color: white;
+  padding: 10px 20px;
+}
+
+#monsterStats {
+  display: none;
+  border: 1px white dotted;
+  color: white;
+  padding: 10px 20px;
+font-size: 20px;
+ background-image: url("https://img.myloview.com/stickers/blue-background-with-white-circle-rings-in-faded-distressed-vintage-grunge-texture-design-old-geometric-pattern-paper-400-212302375.jpg");
+}
+
+.stat {
+
+font-size: 20px;
+  padding-right: 10px 20px;
+}
